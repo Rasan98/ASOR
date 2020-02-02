@@ -6,6 +6,10 @@ Este repositorio contiene las prácticas de la parte de SO de la asignatura Ampl
 
 * __Practica_2__ --> ejemplos de código relacionados con el manejo del sistema de ficheros.
 
-* __Practica_3__ --> ejemplos de código relacionados con la gestión de procesos y el uso de tuberías.
+* __Practica_3__ --> ejemplos de código relacionados con la gestión de procesos.
 
-* __Practica_4__ --> ejemplos de código relacionados con el uso de sockets, utilizados para crear servidores TCP y UDP.
+* __Practica_4__ --> ejemplos de código relacionados con el uso de tuberías. 
+
+* __Practica_5__ --> ejemplos de código relacionados con el uso de sockets, utilizados para crear servidores TCP y UDP.
+  * ej4.c --> contiene un ejemplo de servidor UDP que envía la fecha y hora al cliente.
+  * ej8.c --> contiene un ejemplo de servidor TCP que acepta conexiones simultáneas, y repite al cliente lo que envía.
